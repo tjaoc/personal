@@ -25,6 +25,10 @@
       {
         "type": "linkedin",
         "URL": "https://www.linkedin.com/in/tiacruz"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/tjaoc"
       }
     ]
   },
@@ -410,6 +414,10 @@
         {
           "URL": "https://www.linkedin.com/in/tiacruz",
           "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/tjaoc",
+          "type": "github"
         }
       ]
     },
