@@ -1,0 +1,453 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
+  "settings": {
+    "language": "ES",
+    "MACVersion": "0.5"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Tiago",
+      "surnames": "Cruz",
+      "title": "Especialista en transformar Visión en Tecnologia (SaaS & IA) | Ejecutivo C-Level & Fundador | Mentor de Negocios & Formador",
+      "description": "Ejecutivo C-Level y Emprendedor Tecnológico con más de 20 años de experiencia transformacional en entornos de alto crecimiento. Fundador y líder de empresas de éxito, incluyendo NETIC y GoTrucki, con un historial probado en la obtención de Resultados Medibles y en la conducción de la Innovación Digital.\n\nProfesional polifacético con profunda experiencia en Desarrollo de Software, Consultoría Empresarial, Marketing Digital y Gestión de Proyectos (PMP/Agile). Especialista en traducir la Visión Estratégica en sistemas escalables, aplicando Liderazgo Transformacional y excelencia en Arquitectura de Software y optimización de negocios.",
+      "avatar": {
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/26/02/24/1bba3dee-f958-453e-a81e-5207b9374a73_cara.jpg",
+        "alt": "cara.jpg"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API (id: ChIJk8GyYRRiLw0Rn9RLF60dRHs)",
+        "country": "España",
+        "region": "Galicia",
+        "municipality": "Vigo"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/tiacruz"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Club Mentor"
+        },
+        "roles": [
+          {
+            "name": "Advisor & Mentor",
+            "startDate": "2023-01-01",
+            "finishDate": "2024-09-30",
+            "challenges": [
+              {
+                "description": "Skills: Proyectos de tecnología de la información · Desarrollo de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Triskelus"
+        },
+        "roles": [
+          {
+            "name": "CEO & Co-Founder",
+            "startDate": "2023-01-01",
+            "finishDate": "2024-09-30",
+            "challenges": [
+              {
+                "description": "Skills: Liderazgo de equipos · Bases de datos · Metodologías ágiles · Comercial · Marketing · Proyectos de tecnología de la información · Desarrollo de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Soft4All"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2022-10-01",
+            "finishDate": "2023-09-30",
+            "challenges": [
+              {
+                "description": "Skills: Liderazgo de equipos · Bases de datos · Metodologías ágiles · Marketing · Proyectos de tecnología de la información · Desarrollo de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GoTrucki"
+        },
+        "roles": [
+          {
+            "name": "Co-Founder",
+            "startDate": "2022-02-01",
+            "challenges": [
+              {
+                "description": "Responsabilidades:\n— Liderar un equipo de ingenieros en el desarrollo y mantenimiento de la plataforma de GoTrucki\n— Desarrollar la arquitectura tecnológica de la plataforma\n— Gestionar el ciclo de vida de desarrollo de software\n— Garantizar la seguridad y el rendimiento de la plataforma\n\nLogros:\n— Aumentó la capacidad de la plataforma en un 200 %\n— Redujo el número de ataques en un 50 %\n— Lanzó unas nuevas características que aumentó la satisfacción del cliente en un 35 %"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "360 ASESORES"
+        },
+        "roles": [
+          {
+            "name": "CTO & Co-Founder",
+            "startDate": "2021-01-01",
+            "finishDate": "2022-10-31",
+            "challenges": [
+              {
+                "description": "Skills: Liderazgo de equipos · JIRA · Bases de datos · Metodologías ágiles · Marketing · Proyectos de tecnología de la información · Desarrollo de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "LiveGest"
+        },
+        "roles": [
+          {
+            "name": "CEO Spain",
+            "startDate": "2020-03-01",
+            "finishDate": "2021-12-31",
+            "challenges": [
+              {
+                "description": "Skills: Liderazgo de equipos · JIRA · Metodologías ágiles · Comercial · Marketing · Proyectos de tecnología de la información · Desarrollo de proyectos"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Coworking and Business Center Salvaterra/Monção"
+        },
+        "roles": [
+          {
+            "name": "Impulsor",
+            "startDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Responsabilidades:\n\n- Impulsar el desarrollo del Coworking y Centro de Negocios Salvaterra/Monção\n- Gestionar las operaciones diarias del centro\n\nLogros:\n\n- El primer centro de coworking transfronterizo de la Unión Europea\n- Una comunidad de más de 50 empresas que ha generado un impacto económico de más de 1 millón de euros.\n\nMentorias y tutorías\n\n- Dirigió un programa de mentoría para emprendedores de la región transfronteriza, que ayudó a 100 emprendedores a desarrollar sus negocios.\n- Participó como mentor en un programa de aceleración de startups, que ayudó a 10 startups a lanzar sus productos o servicios.\n- Impartió un taller de tutoría para emprendedores, que ayudó a 20 emprendedores a mejorar sus habilidades de gestión."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "NETIC"
+        },
+        "roles": [
+          {
+            "name": "CEO & Founder",
+            "startDate": "2016-01-01",
+            "finishDate": "2024-10-31",
+            "challenges": [
+              {
+                "description": "Responsabilidades:\n— Liderar equipos en el desarrollo y lanzamiento de nuevos productos y servicios de software\n— Gestionar las operaciones diarias de la empresa, incluyendo las finanzas, el marketing y las ventas\n— Representar a la empresa ante clientes, inversores y socios\n\nLogros:\n— Aumentó la participación en las redes sociales en un 15 % en un año\n— Lanzó un nuevo software que generó un aumento del 20 % en las ventas"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Profiforma- Gabinete de Consultadoria e Formação Profissional, Lda"
+        },
+        "roles": [
+          {
+            "name": "Teaching Professional",
+            "startDate": "2006-12-01",
+            "finishDate": "2007-02-28",
+            "challenges": [
+              {
+                "description": "Course to Creating Web Pages\nBusiness or sector Information and communication"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ADAM - Associação de Defesa de Agricultores de Monção"
+        },
+        "roles": [
+          {
+            "name": "Teaching professional",
+            "startDate": "2004-01-01",
+            "finishDate": "2005-01-01",
+            "challenges": [
+              {
+                "description": "Course in Computer Operator Level II in Network and Internet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Câmara Municipal de Monção"
+        },
+        "roles": [
+          {
+            "name": "Coordinator to Internet Space",
+            "startDate": "2002-05-01",
+            "finishDate": "2003-05-31",
+            "challenges": [
+              {
+                "description": "Design, Planning, Implementation, Installation and configuration of all systems. Coordinator of all kinds of activities of internet space, develop actions and maintenance of equipment and network."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Câmara Municipal de Monção"
+        },
+        "roles": [
+          {
+            "name": "Director de TI",
+            "startDate": "2002-02-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "Responsabilidades:\n\n- Dirigir el departamento de informática y telecomunicaciones, que proporcionó servicios de TI a más de 30.000 usuarios\n- Desarrollar e implementar una estrategia de TI para el ayuntamiento\n- Gestionar un equipo de ingenieros de TI\n- Liderar proyectos de TI de gran envergadura\n\nLogros:\n\n- Mejoró la eficiencia del departamento en un 80%, lo que generó un ahorro de 5 millones de euros\n- Lanzó un nuevo portal web que aumentó la participación ciudadana en un 70%\n- Implementó varios nuevos sistemas que redujo los costes en un 65%\n- Diseño e Implementación de Proyectos en el Vale do Minho de Fibra Óptica de 10 millones de euros, pudiendo las operadoras servir los habitantes con internet y otros servicios.\n- Diseño e Implementación interconexión de edificios municipales en fibra óptica y nueva infra-estructura TI en el ayuntamiento.\n- Diseño e implementación de Wi-fi pública para el público en general."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ADAM - Associação de Defesa de Agricultores de Monção"
+        },
+        "roles": [
+          {
+            "name": "Teaching Professional",
+            "startDate": "2002-01-01",
+            "finishDate": "2003-01-01",
+            "challenges": [
+              {
+                "description": "Course in Computer Operator Level II in Network and Internet."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Sitcruz - Services For All"
+        },
+        "roles": [
+          {
+            "name": "CEO",
+            "startDate": "2002-01-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "Services for Web"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Palacio da Brejoeira"
+        },
+        "roles": [
+          {
+            "name": "Teaching Professional",
+            "startDate": "2000-01-01",
+            "finishDate": "2000-05-31",
+            "challenges": [
+              {
+                "description": "Trainer of the existing staff team at the Palace"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TMCI"
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "1998-09-01",
+            "finishDate": "2001-06-30",
+            "challenges": [
+              {
+                "description": "Responsável pela Gestão de Assistências Técnicas da Empresa."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "EN",
+        "fullName": "Inglés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "ES",
+        "fullName": "Español",
+        "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "FR",
+        "fullName": "Francés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Native or bilingual proficiency"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Hyper-v",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Microsoft Office 365",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Windows",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Master in Innovation and Entrepreneurship",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "ENEB - Escuela de Negocios Europea de Barcelona"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": false,
+        "name": "Master of Business Administration - MBA",
+        "startDate": "2022-09-01",
+        "institution": {
+          "name": "ENEB - Escuela de Negocios Europea de Barcelona"
+        }
+      }
+    ],
+    "softSkills": [
+      {
+        "skill": {
+          "name": "Autonomía en el aprendizaje",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Trabajo en equipo",
+          "type": "practice"
+        }
+      },
+      {
+        "skill": {
+          "name": "Visión estratégica",
+          "type": "practice"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/tiacruz",
+          "type": "linkedin"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredRoles": [
+        "Project Manager & Delivery Manager"
+      ]
+    },
+    "status": "searchingActively",
+    "requirements": {
+      "contractTypes": [
+        "permanent",
+        "freelance"
+      ]
+    }
+  },
+  "manfredSpecificData": {
+    "mainStackTechs": [
+      {
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "Azure",
+        "type": "technology"
+      },
+      {
+        "name": "Jira",
+        "type": "technology"
+      },
+      {
+        "name": "Microsoft Office 365",
+        "type": "technology"
+      },
+      {
+        "name": "Windows",
+        "type": "technology"
+      }
+    ]
+  }
+}
